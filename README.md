@@ -2,7 +2,7 @@
 - 👀 I’m interested in computational biology and genetics
 - 🌱 I’m currently learning about evolutionary biology
 - 💞️ I’m looking to collaborate on working with R...
-- 📫 How to reach me ... my email is cchen2@brynmawr.edu
+- 📫 How to reach me ... my email is jiajiachen@hsph.harvard.edu
 
 <!---
 Clementine0702/Clementine0702 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
